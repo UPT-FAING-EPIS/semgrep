@@ -1,0 +1,12 @@
+C:\Users\gabri\OneDrive\Documentos\Github\lab-2024-i-cps-u1-03-GabrielFMH\CustomerApp\CustomerApp.Domain\bin\Debug\net8.0\CustomerApp.Domain.deps.json
+C:\Users\gabri\OneDrive\Documentos\Github\lab-2024-i-cps-u1-03-GabrielFMH\CustomerApp\CustomerApp.Domain\bin\Debug\net8.0\CustomerApp.Domain.dll
+C:\Users\gabri\OneDrive\Documentos\Github\lab-2024-i-cps-u1-03-GabrielFMH\CustomerApp\CustomerApp.Domain\bin\Debug\net8.0\CustomerApp.Domain.pdb
+C:\Users\gabri\OneDrive\Documentos\Github\lab-2024-i-cps-u1-03-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\Github\lab-2024-i-cps-u1-03-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Github\lab-2024-i-cps-u1-03-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\Github\lab-2024-i-cps-u1-03-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Github\lab-2024-i-cps-u1-03-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.sourcelink.json
+C:\Users\gabri\OneDrive\Documentos\Github\lab-2024-i-cps-u1-03-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.dll
+C:\Users\gabri\OneDrive\Documentos\Github\lab-2024-i-cps-u1-03-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\refint\CustomerApp.Domain.dll
+C:\Users\gabri\OneDrive\Documentos\Github\lab-2024-i-cps-u1-03-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.pdb
+C:\Users\gabri\OneDrive\Documentos\Github\lab-2024-i-cps-u1-03-GabrielFMH\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\ref\CustomerApp.Domain.dll

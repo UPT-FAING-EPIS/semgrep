@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="1" branch-rate="1" version="1.9" timestamp="1712948969" lines-covered="10" lines-valid="10" branches-covered="0" branches-valid="0">
+  <sources>
+    <source>C:\Users\gabri\OneDrive\Documentos\Github\lab-2024-i-cps-u1-03-GabrielFMH\Estructural\Estructural.Domain\</source>
+  </sources>
+  <packages>
+    <package name="Estructural.Domain" line-rate="1" branch-rate="1" complexity="3">
+      <classes>
+        <class name="LegacyRectangle" filename="LegacyRectangle.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="DrawRectangle" signature="(System.Int32,System.Int32,System.Int32,System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="1" branch="False" />
+                <line number="5" hits="1" branch="False" />
+                <line number="6" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="1" branch="False" />
+            <line number="5" hits="1" branch="False" />
+            <line number="6" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="LegacyRectangleAdapter" filename="LegacyRectangleAdapter.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Draw" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="1" branch="False" />
+                <line number="14" hits="1" branch="False" />
+                <line number="15" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(LegacyRectangle)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="1" branch="False" />
+                <line number="8" hits="1" branch="False" />
+                <line number="9" hits="1" branch="False" />
+                <line number="10" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="1" branch="False" />
+            <line number="14" hits="1" branch="False" />
+            <line number="15" hits="1" branch="False" />
+            <line number="7" hits="1" branch="False" />
+            <line number="8" hits="1" branch="False" />
+            <line number="9" hits="1" branch="False" />
+            <line number="10" hits="1" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
